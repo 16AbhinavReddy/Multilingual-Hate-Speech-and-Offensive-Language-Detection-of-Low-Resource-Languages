@@ -1,0 +1,2 @@
+# Multilingual-Hate-Speech-and-Offensive-Language-Detection-of-Low-Resource-Languages
+The need for detection and prevention of hate and offensive speech is more than ever. Here we extended the task of detecting Hate Speech in Bengali, Bodo, and Assamese languages. In this code we describe our approaches which broadly involve LSTM coupled with CNN and pre-trained BERT based models like IndicBERT and MuRIL.
